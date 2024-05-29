@@ -5,7 +5,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Slides | [Link](./statsbomb-slides.pptx.pdf)|
+| Lesson | Slides | [Link](./Statsbomb.pdf)|
 | Lesson | Dataset | []()|
 | Lesson | Starter code | []() |
 
